@@ -19,4 +19,4 @@
   
  <h1> O que me deixa feliz <img src="coquinha gelada.png" title="auge da felicidade"/> </h1>
   
-  <img src="press F.png" title="morte deste personagem F"/>
+ <h2> O que me deixa triste <img src="press F.png" title="morte deste personagem F"/> </h2>
