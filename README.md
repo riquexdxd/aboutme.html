@@ -9,3 +9,4 @@
   <ul>Lógica Para Computação</ul>
   <ul>Estrutura De Computadores</ul>
   <ul>Experiência e interface com o Usuário </ul>
+  <ul>Introdução para computação</ul>
