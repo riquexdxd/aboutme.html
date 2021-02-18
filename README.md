@@ -19,4 +19,4 @@
   
   <img src="coquinha gelada.png" title="auge da felicidade"/>
   
-  <img src="press F.png" title="morte deste personage F"/>
+  <img src="press F.png" title="morte deste personagem F"/>
