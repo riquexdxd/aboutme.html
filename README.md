@@ -15,8 +15,6 @@
   <ul> Tá dando onda</ul>
   <ul> Pokemon </ul>
   <a href="https://dragonball.fandom.com/pt-br/wiki/Dragon_Ball_Z"> fandom de dbz </a>
-  
-  
  <h1> O que me deixa feliz <img src="coquinha gelada.png" title="auge da felicidade"/> </h1>
   
  <h2> O que me deixa triste <img src="press F.png" title="morte deste personagem F"/> </h2>
