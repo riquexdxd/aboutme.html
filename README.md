@@ -14,4 +14,4 @@
   <ul> Dragon Ball Z</ul>
   <ul> Tá dando onda</ul>
   <ul> Pokemon </ul>
-  <a href="https://dragonball.fandom.com/pt-br/wiki/Dragon_Ball_Z" </a>
+  <a href="https://dragonball.fandom.com/pt-br/wiki/Dragon_Ball_Z"> fandom de dbz </a>
